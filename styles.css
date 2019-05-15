@@ -1,0 +1,76 @@
+.card-deck{
+    margin-top: 1cm;
+
+}
+
+.container {
+    margin-top:1 cm;
+
+}
+
+.containers {
+    margin-top:80px;
+
+}
+
+.container2{
+    margin-top:150px
+}
+
+.carousel-inner{
+    margin-top: 70px;
+}
+
+.our{
+    margin-top: 1cm;
+    height: 600px;
+}
+
+.card1{
+    position: relative;
+    top: 50px;  
+    height: 600px;
+}
+
+.card2{
+    height: 600px;
+    width: 800px;
+    position: relative;
+    left: 130px;
+}
+
+.card-body1{
+    width: 200px;
+    height: 400px;
+    position: relative;
+    left: 50px;
+
+}
+
+.card-body2{
+    width: 200px;
+    height: 400px;
+    position: relative;
+    left: 310px;
+    bottom: 400px;
+
+}
+
+.card-body3{
+    width: 200px;
+    height: 400px;
+    position: relative;
+    left: 580px;
+    bottom: 800px;
+}
+
+.card-body4{
+    width: 200px;
+    height: 400px;
+    position: relative;
+    left: 850px;
+    bottom: 1200px;
+
+}
+
+
